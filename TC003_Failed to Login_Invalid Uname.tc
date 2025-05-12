@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User is trying to login using invalid username and  valid password</description>
-   <name>TC003_Failed to Login_Invalid Uname</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>26a32464-5bcc-4aa8-af82-a12389b8b5b1</testCaseGuid>
-</TestCaseEntity>

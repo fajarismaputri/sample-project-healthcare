@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User is success to make an appointment_Seoul Cura_None</description>
-   <name>TC014_Success to Make Appointment 9</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>afec4311-a6db-4589-bfa1-8a13f858e39d</testCaseGuid>
-</TestCaseEntity>

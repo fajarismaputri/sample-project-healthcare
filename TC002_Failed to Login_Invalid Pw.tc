@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User is trying to login using valid username and invalid password</description>
-   <name>TC002_Failed to Login_Invalid Pw</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>61f7398d-f4ef-4aba-8c18-e142cc2cc26f</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User is success to make several appointments at 1 login process</description>
-   <name>TC015_Success to Make Several Appointments</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>2740ccb4-dd77-46e5-899c-8607e4f81bdc</testCaseGuid>
-</TestCaseEntity>

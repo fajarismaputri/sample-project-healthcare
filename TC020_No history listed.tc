@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User wants to see history without making appointment first</description>
-   <name>TC020_No history listed</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>353e053a-1442-4e17-a867-7c05e35838a5</testCaseGuid>
-</TestCaseEntity>

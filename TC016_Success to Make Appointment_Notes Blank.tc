@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User is success to make an appointment if the `notes` left blank</description>
-   <name>TC016_Success to Make Appointment_Notes Blank</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>d2de796f-50f5-488a-a12e-4d6acccaf479</testCaseGuid>
-</TestCaseEntity>

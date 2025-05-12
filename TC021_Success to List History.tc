@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User wants to see history after making appointment(s) first</description>
-   <name>TC021_Success to List History</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>f07397a4-5e59-4973-b18b-a11ebda67493</testCaseGuid>
-</TestCaseEntity>
