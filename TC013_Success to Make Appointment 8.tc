@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is success to make an appointment_Seoul Cura_Medicaid</description>
+   <name>TC013_Success to Make Appointment 8</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c5d3dc7-fc9f-4321-a9c8-117273fb2818</testCaseGuid>
+</TestCaseEntity>

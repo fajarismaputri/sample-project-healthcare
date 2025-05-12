@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User success to Logout after Login</description>
+   <name>TC018_Success to Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>628d5704-b180-4479-9438-ebec793d9753</testCaseGuid>
+</TestCaseEntity>

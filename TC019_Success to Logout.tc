@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User success to Logout after Making Appointment(s)</description>
+   <name>TC019_Success to Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b2bae3c-f704-46d7-bc9c-94c5eaae3017</testCaseGuid>
+</TestCaseEntity>
