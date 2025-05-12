@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is trying to login using by not inputing anything</description>
+   <name>TC005_Failed to Login_Empty on Both Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>363c8bec-da9e-41c3-994f-f01c9d51bab5</testCaseGuid>
+</TestCaseEntity>

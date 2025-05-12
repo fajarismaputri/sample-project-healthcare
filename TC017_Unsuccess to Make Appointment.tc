@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is unsuccess to book appointment due to they left the &quot;Date&quot; blank</description>
+   <name>TC017_Unsuccess to Make Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>791689cb-9493-4c6e-8bd1-1907ff66bcdf</testCaseGuid>
+</TestCaseEntity>
